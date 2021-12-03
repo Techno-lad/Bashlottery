@@ -1,2 +1,2 @@
 # Bashlottery
-A lottery implementation in Bash
+A lottery implementation in Shell script
